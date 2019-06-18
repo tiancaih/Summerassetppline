@@ -2028,3 +2028,255 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-18.57.25:360][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.18-18.59.56:284][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.18-19.03.00:911][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.00.52:399][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.00.52:557][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Street_base" FILE="../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/Street_base.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-20.00.52:625][932]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2019.06.18-20.00.54:503][932]LogSavePackage: Moving '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Saved/Street_base17B9C7C44CA2857B241CE2AE33A172B2.tmp' to '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/Street_base.umap'
+[2019.06.18-20.00.57:602][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.00.57:678][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Street_base" FILE="../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/Street_base.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-20.00.57:707][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.18-20.00.59:470][107]LogSavePackage: Moving '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Saved/Street_base93B6534E475F15F4C64707B20907C18E.tmp' to '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/Street_base.umap'
+[2019.06.18-20.01.25:334][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.15.39:545][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.15.55:587][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.06.18-20.15.57:168][942]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-20.15.57:206][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carne/carne_Skeleton1" FILE="../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/carne/carne_Skeleton1.uasset" SILENT=true
+[2019.06.18-20.15.57:222][942]LogSavePackage: Moving '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Saved/carne_Skeleton133A4F2E74DB24ADFA6BB62B32F718845.tmp' to '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/carne/carne_Skeleton1.uasset'
+[2019.06.18-20.15.57:249][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/man/walk_Animation" FILE="../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/man/walk_Animation.uasset" SILENT=true
+[2019.06.18-20.15.57:309][942]LogSavePackage: Moving '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Saved/walk_Animation5F9203C941B0A7F232B56D98E1AEB582.tmp' to '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/man/walk_Animation.uasset'
+[2019.06.18-20.15.57:324][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/man/walk_Animation_Skeleton" FILE="../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/man/walk_Animation_Skeleton.uasset" SILENT=true
+[2019.06.18-20.15.57:338][942]LogSavePackage: Moving '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Saved/walk_Animation_Skeleton7540DACC4CC895510809909EB9207E35.tmp' to '../../../../../../Users/u1241445/Documents/GitHub/Summerassetppline/cityblock/Content/man/walk_Animation_Skeleton.uasset'
+[2019.06.18-20.16.03:378][957]LogSlate: Window 'Asset Report' being destroyed
+[2019.06.18-20.16.14:297][957]LogSlate: Window 'Message' being destroyed
+[2019.06.18-20.16.16:160][957]LogAssetTools: Warning: /Game/lambert1 does not exist on disk.
+[2019.06.18-20.16.16:161][957]LogAssetTools: Warning: /Game/carne_Skeleton does not exist on disk.
+[2019.06.18-20.16.16:161][957]LogAssetTools: Warning: /Game/walk_Animation_PhysicsAsset does not exist on disk.
+[2019.06.18-20.16.16:941][957]AssetTools: New page: Copy Errors
+[2019.06.18-20.16.16:941][957]AssetTools: Error: /Game/lambert1 does not exist on disk.
+/Game/carne_Skeleton does not exist on disk.
+/Game/walk_Animation_PhysicsAsset does not exist on disk.
+
+[2019.06.18-20.16.16:941][957]AssetTools: New page: Copied Successfully
+[2019.06.18-20.16.16:942][957]AssetTools: 
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/Street_base
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/carne/lambert1
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/carne/COLOR
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Materials/summer_terrain
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/grass_fall_a_d
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/grass_fall_a_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/landscape_splat
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_grass_c_d
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_grass_c_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_d
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/snow_terrain_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/h_assest/lambert1
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/materials/floor/masters/m_concrete_floor_panels
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_01_m
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_01_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/common/t_roughness_01_m
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/common/t_roughness_02_m
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_01/t_concrete_01_d
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_01/t_concrete_01_n
+[2019.06.18-20.16.16:942][957]AssetTools: /Game/materials/wall/masters/m_concrete
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/materials/wall/masters/m_oldbrick_01
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/material_functions/mf_rust_mask
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/rock/t_rock_02/t_rock_02_m
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_02/t_concrete_02_d
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_02/t_concrete_02_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_d
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_h
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_r
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/materials/wall/masters/m_travertine_rectangular_staggered
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_d
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_h
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_r
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/SimplePort/Materials/M_SimplePort_Material
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/SimplePort/Textures/T_SimplePort_Texture
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/materials/floor/masters/m_ceramic_floor_tile
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_03_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/common/t_noise_01_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/floor/t_floortile_01_m
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/materials/floor/mi_concrete_panels_staggered_yellow
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/materials/floor/masters/m_concrete_floor_panels
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/materials/wall/mi_travertine_interlocking_white
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/materials/wall/masters/m_travertine_interlocking
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertin_01_n
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_d
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_h
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_r
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/materials/floor/mi_diamond_metal_copper
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/materials/floor/masters/m_diamond_pattern
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_ao
+[2019.06.18-20.16.16:943][957]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_d
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_n
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/VariousTextures/materials/wall/mi_concrete_drying
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/VariousTextures/materials/wall/masters/m_concrete
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/BUILDING/SM_Building_Boatshed_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/BUILDING/SM_Building_Power_Main_01
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/BUILDING/SM_Building_Power_Main_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/BUILDING/SM_Building_SmokeStack_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/BUILDING/SM_Building_Warehouse_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/carne/carne
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/carne/lambert3
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/carne/carne_Skeleton1
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/carne/inclasscarne
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/man/walk_Animation
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/prop/SM_Prop_Power_Pole_Large
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/prop/SM_Prop_Powerline_Large
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/st_meshes/spruce_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceBark
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/MM_AcaciaBark
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/AcaciaBarck_n
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/TEX_0
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/bark06
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/bark06_n
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceBillboard_02
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/M_FoliageBillBoard
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_01_billboard
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_01_billboard_N
+[2019.06.18-20.16.16:944][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spuce_02_billboard
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spuce_02_billboard_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceLeafes
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/TreesLeafesMaster
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_leaf
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_leaf_normal
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spruce_leaf
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spruce_leaf_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/st_meshes/sycamore_01
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBark
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/bark01
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/bark01_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBillboard_01
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_01_Billboard
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_01_Billboard_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreLeafes
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_leaf
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_leaf_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/st_meshes/sycamore_03
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBillboard_03
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_03_Billboard
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_03_Billboard_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/treetest
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/Materials/MI_beechBark
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/textures/bark01
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/textures/bark01_n
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/Materials/MI_beerchLeafes
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/textures/beech_leaf
+[2019.06.18-20.16.16:945][957]AssetTools: /Game/TreeAssets/Trees/Beech/textures/beech_leaf_n
+[2019.06.18-20.17.00:683][201]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.727 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-20.18.25:543][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.06.18-20.18.26:931][892]LogSlate: Window 'Asset Report' being destroyed
+[2019.06.18-20.18.30:643][892]LogSlate: Window 'Message' being destroyed
+[2019.06.18-20.18.31:372][892]AssetTools: New page: Content migration completed successfully!
+[2019.06.18-20.18.31:372][892]AssetTools: /Game/Street_base
+[2019.06.18-20.18.31:372][892]AssetTools: /Game/carne/lambert1
+[2019.06.18-20.18.31:372][892]AssetTools: /Game/carne/COLOR
+[2019.06.18-20.18.31:372][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Materials/summer_terrain
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/grass_fall_a_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/grass_fall_a_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/landscape_splat
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_grass_c_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_grass_c_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/SM_ground_gravel_b_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/grass_assest/PhotoR_Backgrounds/Textures/snow_terrain_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/h_assest/lambert1
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/floor/masters/m_concrete_floor_panels
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_01_m
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_roughness_01_m
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_roughness_02_m
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_01/t_concrete_01_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_01/t_concrete_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/wall/masters/m_concrete
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/wall/masters/m_oldbrick_01
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/material_functions/mf_rust_mask
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/rock/t_rock_02/t_rock_02_m
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_02/t_concrete_02_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_concrete_02/t_concrete_02_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_h
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_oldbrick_01/t_oldbrick_r
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/wall/masters/m_travertine_rectangular_staggered
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_h
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_02/t_travertine_02_r
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/SimplePort/Materials/M_SimplePort_Material
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/SimplePort/Textures/T_SimplePort_Texture
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/floor/masters/m_ceramic_floor_tile
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_groutlines_03_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/common/t_noise_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_floortile_01_m
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/floor/mi_concrete_panels_staggered_yellow
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/floor/masters/m_concrete_floor_panels
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/materials/wall/mi_travertine_interlocking_white
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/wall/masters/m_travertine_interlocking
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertin_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_h
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/wall/t_travertine_01/t_travertine_01_r
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/floor/mi_diamond_metal_copper
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/floor/masters/m_diamond_pattern
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_ao
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_d
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/textures/floor/t_rubbermat_01/t_rubbermat_01_n
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/wall/mi_concrete_drying
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/VariousTextures/materials/wall/masters/m_concrete
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/BUILDING/SM_Building_Boatshed_02
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/BUILDING/SM_Building_Power_Main_01
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/BUILDING/SM_Building_Power_Main_02
+[2019.06.18-20.18.31:373][892]AssetTools: /Game/BUILDING/SM_Building_SmokeStack_02
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/BUILDING/SM_Building_Warehouse_02
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/carne/carne
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/carne/lambert3
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/carne/carne_Skeleton1
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/carne/inclasscarne
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/man/walk_Animation
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/man/walk_Animation_Skeleton
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/prop/SM_Prop_Power_Pole_Large
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/prop/SM_Prop_Powerline_Large
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/st_meshes/spruce_02
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceBark
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/MM_AcaciaBark
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/AcaciaBarck_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/TEX_0
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/bark06
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/bark06_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceBillboard_02
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/M_FoliageBillBoard
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_01_billboard
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_01_billboard_N
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spuce_02_billboard
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spuce_02_billboard_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/Materials/MI_SpruceLeafes
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/MasterMaterials/TreesLeafesMaster
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_leaf
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Acacia/Textures/acacia_leaf_normal
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spruce_leaf
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Spruce/textures/spruce_leaf_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/st_meshes/sycamore_01
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBark
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/bark01
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/bark01_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBillboard_01
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_01_Billboard
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_01_Billboard_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreLeafes
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_leaf
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_leaf_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/st_meshes/sycamore_03
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/materials/MI_SycamoreBillboard_03
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_03_Billboard
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Sycamore/textures/sycamore_03_Billboard_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/treetest
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/Materials/MI_beechBark
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/textures/bark01
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/textures/bark01_n
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/Materials/MI_beerchLeafes
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/textures/beech_leaf
+[2019.06.18-20.18.31:374][892]AssetTools: /Game/TreeAssets/Trees/Beech/textures/beech_leaf_n
